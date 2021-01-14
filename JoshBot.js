@@ -74,5 +74,6 @@ client.on('message', message => {
 
 
 
+
  //bot login   
 client.login("NzUwNDg3MDEwNzc4ODA4MzM0.X07Pfg.tOXJx6EtfaMSMVJ9ZEeGyB2fAXU")
