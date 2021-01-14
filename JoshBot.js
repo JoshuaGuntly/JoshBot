@@ -1,6 +1,3 @@
-/* tutorial: https://www.youtube.com/watch?v=8o25pRbXdFw */
-//Bot testing channel id: 649801747581108254
-
 const Discord = require('discord.js');
 const { receiveMessageOnPort } = require('worker_threads');
 const config = require('./config.json');
